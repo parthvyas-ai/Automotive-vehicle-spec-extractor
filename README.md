@@ -2,7 +2,7 @@
 
 ## Overview
 
-The goal of this project is to build a domain-specific intelligent system that extracts structured vehicle specifications (e.g., torque values, fluid capacities, part numbers) from Automotive Service Manual PDFs using natural language queries.Unlike general-purpose PDF chatbots, this system is optimized specifically for automotive specification extraction. It leverages a Hybrid Retrieval-Augmented Generation (RAG) architecture to ensure accurate, structured, and deterministic outputs in JSON format.The application provides a clean Streamlit-based interface where users can upload service manual PDFs and query them using natural language.
+The goal of this project is to build a domain-specific intelligent system that extracts structured vehicle specifications (e.g., torque values, fluid capacities, part numbers) from Automotive Service Manual PDFs using natural language queries. Unlike general-purpose PDF chatbots, this system is optimized specifically for automotive specification extraction. It leverages a Hybrid Retrieval-Augmented Generation (RAG) architecture to ensure accurate, structured, and deterministic outputs in JSON format.The application provides a clean Streamlit-based interface where users can upload service manual PDFs and query them using natural language.
 
 
 
