@@ -1,4 +1,4 @@
-# Automotive Vehicle Specification Extraction System with RAG
+# Vehicle Specification Extraction System with RAG
 
 ## Overview
 
