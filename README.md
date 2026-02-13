@@ -59,7 +59,7 @@ To use the Vehicle Specification Extraction System:
 
 ## Acknowledgments
 
-I would like to express our gratitude to the Hugging Face community for the all-MiniLM-L6-v2 Embeddings model, and OpenAI for providing the GPT-3.5 Turbo model through their API.
+I would like to express my gratitude to the Hugging Face community for the all-MiniLM-L6-v2 Embeddings model, and OpenAI for providing the GPT-3.5 Turbo model through their API.
 
 ---
 
